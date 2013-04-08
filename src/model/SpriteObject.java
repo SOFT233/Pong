@@ -4,6 +4,7 @@ import android.graphics.Point;
 
 public class SpriteObject {
 
+	//TODO use Bitmap type instead?
 	protected String sprite;
 	protected Point location;
 	protected double xMove;
